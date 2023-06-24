@@ -57,7 +57,7 @@ def mouse_hold(left: bool, length: float) -> None:
 
 def mouse_drag(left: bool, length: float) -> None:
     #hold left or right mouse button and move the mouse
-    ellpsis
+    ellipsis
 
 def get_mouse_position() -> [int, int]:
     #return current mouse position
